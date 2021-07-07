@@ -1,0 +1,10 @@
+# Site settings
+title: Great New  Title
+author:
+  name: Mario Sebasco
+  email: your-email@domain.com
+description: "Great site about Jekyll on GH-Pages."
+github_username: mariosebasco
+
+# Build settings
+remote_theme: jekyll/minima
